@@ -14,4 +14,4 @@ data(lung)
 - Logrank test
 
 ### Overview:
-Analyzing the survival data by the variable age (in years) based on the survival experiences of patients in the "65 years or older" group and the "younger than 65 years" group. 
+Analyzing the survival data by the variable age based on the survival experiences of patients in the "65 years or older" group and the "younger than 65 years" group. 
