@@ -17,8 +17,8 @@ data(lung)
 Analyzing the survival data by the variable age based on the survival experiences of patients in the "65 years or older" group and the "younger than 65 years" group. 
 
 ### Project Report outline:
-- Introduction
-- Research interests and questions
-- Statistical methods used
-- Results and conclusions
-- References
+1. Introduction
+2. Research interests and questions
+3. Statistical methods used
+4. Results and conclusions
+5. References
