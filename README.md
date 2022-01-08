@@ -1,5 +1,5 @@
-# Nonparametric Statistics - Project 2 (Survival Analysis)
-> Assignment from Spring 2021 Nonparametric Statistics course.
+# Nonparametric Statistics - Project 2
+> Survival Analysis assignment from Spring 2021 Nonparametric Statistics course.
 
 The survival package in R contains the data.
 
