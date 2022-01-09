@@ -22,3 +22,8 @@ Analyzing the survival data by the variable age, based on the survival experienc
 3. Statistical methods used
 4. Results and conclusions
 5. References
+
+#
+
+### Highlights:
+Gained experience working with healthcare domain problems
